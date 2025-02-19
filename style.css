@@ -1,0 +1,39 @@
+.container {
+  max-width: 1200px;
+}
+
+.trafic-light {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  width: 20%;
+  height: 300px;
+  border: 2px solid black;
+}
+
+.circle {
+  display: flex;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.time {
+  margin: 0 auto;
+  font-size: 60px;
+}
+
+/* .red {
+  background-color:red;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+} */
